@@ -5,7 +5,7 @@ I'm Sroysawan
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,vite,mysql,github&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,vite,nodejs,mysql,github&perline=9)](https://skillicons.dev)
 
 ---
 
