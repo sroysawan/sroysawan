@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 I'm Sroysawan
-https://sroysawan.netlify.app/
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
