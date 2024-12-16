@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm **Sroysawan**  
-🌟 Check out my portfolio: [sroysawan.netlify.app](https://sroysawan.netlify.app/)  
+🌟 Check out my portfolio: [Portfolio Website](https://sroysawan.netlify.app/)
 
 ---
 
@@ -17,7 +17,7 @@ I'm **Sroysawan**
 
 ### :sparkles: My Portfolio :
 Take a look at my projects and experiences on my portfolio website:  
-🌐 [sroysawan.netlify.app](https://sroysawan.netlify.app/)
+🌐 [Portfolio Website](https://sroysawan.netlify.app/)
 
 <!--### Connect with me :
 <p align="left">
