@@ -6,8 +6,8 @@ I'm **Sroysawan**
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-<!--[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,materialui,react,vite,nodejs,express,mysql,prisma,postman&perline=7)](https://skillicons.dev)-->
-<div >
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,materialui,react,nextjs,vite,nodejs,express,mysql,mongodb,supabase,prisma,postman&perline=9)](https://skillicons.dev)
+<!--<div >
 	<table>
 		<tr>
 			<td><img width="40" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></td>
@@ -32,7 +32,7 @@ I'm **Sroysawan**
 			<td><img width="40" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger"/></td>
 		</tr>
 	</table>
-</div>
+</div>-->
 
 
 ---
