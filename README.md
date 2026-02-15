@@ -41,10 +41,10 @@ I'm **Sroysawan**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sroysawan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
+<!--
 ### :sparkles: My Portfolio :
 Take a look at my projects and experiences on my portfolio website:  
-🌐 [Portfolio Website](https://sroysawan.netlify.app/)
+🌐 [Portfolio Website](https://sroysawan.netlify.app/)-->
 
 <!--### Connect with me :
 <p align="left">
