@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm **Sroysawan**  
-🌟 Check out my portfolio: [Portfolio Website](https://sroysawan.netlify.app/)
+<!--🌟 Check out my portfolio: [Portfolio Website](https://sroysawan.netlify.app/)-->
 
 ---
 
@@ -36,9 +36,9 @@ I'm **Sroysawan**
 
 
 ---
-
+<!--
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sroysawan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sroysawan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)-->
 
 ---
 <!--
